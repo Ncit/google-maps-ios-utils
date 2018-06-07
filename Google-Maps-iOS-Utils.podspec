@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'Apache 2.0', :file => 'LICENSE' }
   s.authors      = "Google Inc."
   s.platform     = :ios, '7.0'
-  s.source       = { :git => "https://github.com/Ncit/google-maps-ios-utils.git",
+  s.source       = { :git => "https://github.com/Ncit/google-maps-ios-utils.git", :branch => "master",
                      :tag => "v#{s.version.to_s}" }
   s.requires_arc = true
   # s.dependency 'GoogleMaps'
