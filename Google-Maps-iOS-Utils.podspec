@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
                    It is designed to be used with Google Maps SDK for iOS, but it is not
                    dependent on it.
                    DESC
-  s.homepage     = "https://github.com/googlemaps/google-maps-ios-utils"
+  s.homepage     = "https://github.com/Ncit/google-maps-ios-utils.git"
   s.license      = { :type => 'Apache 2.0', :file => 'LICENSE' }
   s.authors      = "Google Inc."
   s.platform     = :ios, '7.0'
